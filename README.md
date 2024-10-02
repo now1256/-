@@ -1,4 +1,4 @@
-<h1 align="center">  범정부 공공데이터 활용 창업 경진대회 </h1>
+<h1>  범정부 공공데이터 활용 창업 경진대회 </h1>
 
 <h2>프로젝트 개요</h2>
 <p> 빅데이터를 클러스터링 기법을 활용하여 문제 해결 제시 <strong>춘천시 대중교통 증진 방안</strong> 춘천시의 대중교통 인프라 확충을 위한 인사이트를 도출</p>
@@ -14,6 +14,7 @@
 <h2>프로젝트 이미지</h2>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4dcd26de-8c40-4f9a-ace0-0d4dcc87b90e" width="60%">
+  
 </p>
 
 <h2>수상 내역</h2>
