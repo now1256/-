@@ -3,7 +3,6 @@
 <br>2024 춘천시 공공데이터 활용 아이디어 공모전 최우수상 24.04 ~ 24.06<br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e6f05f37-96c4-4dcb-ac6f-2720b2578259" width="30%">
-  <img src="https://github.com/user-attachments/assets/63aa4454-8035-462b-9680-981b9923cec3" width="30%">
-  <img src="https://github.com/user-attachments/assets/d842a5f7-9af4-4da6-8c96-551ab69916fe" width="30%">
+  <img src="https://github.com/user-attachments/assets/e6f05f37-96c4-4dcb-ac6f-2720b2578259" width="40%">
+  <img src="https://github.com/user-attachments/assets/d842a5f7-9af4-4da6-8c96-551ab69916fe" width="40%">
 </p>
