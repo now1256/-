@@ -2,8 +2,8 @@
 <h2>내용</h2>
 <br> 클러스터링을 통한 춘천시 대중교통 증진 방안 </br>
 <p>
-  <img src = "https://github.com/user-attachments/assets/4dcd26de-8c40-4f9a-ace0-0d4dcc87b90e width="40%""/>
-  <img src = "https://github.com/user-attachments/assets/7695126e-431c-4dc1-a528-49648f75217e width="40%""/>
+  <img src = "https://github.com/user-attachments/assets/4dcd26de-8c40-4f9a-ace0-0d4dcc87b90e width="40%">
+  <img src = "https://github.com/user-attachments/assets/7695126e-431c-4dc1-a528-49648f75217e width="40%">
 </p>
 <h2>수상</h2>
 <br>제12회 범정부 범정부 공공데이터 활용 창업경진대회 참가(예선통과) 24.06 ~ 24.09</<br>
